@@ -73,8 +73,7 @@ class _RegisterUiState extends State<RegisterUi> {
                           labelText: 'ชื่อ-สกุล',
                           hintText: 'YOUR NAME',
                           hintStyle: TextStyle(color: Colors.grey),
-                          border:
-                              OutlineInputBorder(), // Optional: Adds a border around the TextField
+                          border: OutlineInputBorder(),
                         ),
                       ),
                     ),
