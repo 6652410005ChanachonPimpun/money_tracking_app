@@ -1,3 +1,4 @@
+มาแค่ frount-end นะคับจารย์ ทำ back--end ยังไม่ค่อยเป็นน และทำไม่ทัน
 ![Screenshot 2025-05-09 221129](https://github.com/user-attachments/assets/a248bcf9-2a5e-4213-ae88-b75b384fed63)
 ![Screenshot 2025-05-09 221136](https://github.com/user-attachments/assets/14eb0521-2651-4b07-ae1d-b3d0e91a15f7)
 ![Screenshot 2025-05-09 221145](https://github.com/user-attachments/assets/5ff4b274-f0f3-4f3b-aaa1-f2a59d8e57a3)
